@@ -2,9 +2,9 @@ import React from 'react';
 
 export default function Partners() {
   const partners = [
-    { name: "Brave", logo: "/logos/brave.png" },
-    { name: "hcl", logo: "/logos/hcl.jpg" },
-    { name: "trust", logo: "/logos/trust.png" }
+    { name: "Brave", logo: "./logos/brave.png" },
+    { name: "hcl", logo: "./logos/hcl.jpg" },
+    { name: "trust", logo: "./logos/trust.png" }
   ];
 
   return (
